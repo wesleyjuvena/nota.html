@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    justify-content: space-between;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.header{
+    
+}
+
+.header i{
+    color: aqua;
+    width: 100px;
+}
