@@ -7,7 +7,6 @@
 
 .header{
     background-color: brown;
-    padding: 50px;
     display: flex;
     justify-content: space-between;
     padding: 60px;
@@ -16,19 +15,21 @@
 
 .header i{
 
-    font-size: 50px;
+    font-size: 100px;
     color: aliceblue;
 }
 
-.header i ul{
-    font-size: 50px;
+.header.fa-solid{
+    font-size: 100px;
     color: blueviolet;
 }
+
+
 
 .menu li a{
 text-decoration: none;
 color: aqua;
-padding: opx;
+padding: 0px;
 background-color: brown;
 }
 
@@ -39,6 +40,96 @@ margin-left: 20px;
 .menu{
     display: flex;
 }
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    color: aqua;
+    border-radius: 10px;
+    border: solid greenyellow;
+}
+
+.section{
+    display: flex;
+    max-width:11000px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.section img{
+    
+    max-width: 200px;
+    display: block;
+}
+
+.section div{
+    margin: 120px;
+    flex: 2 2 200px;
+}
+
+.santos{
+    background-color: chartreuse;
+    color: brown;
+    padding: 100px;
+    font-size: 20px;
+}
+
+.santos{
+    background-color: black;
+    padding: 70px ;
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.list-rodape{
+    display: flex;
+}
+
+.list-rodape li{
+    margin-right: 100px;
+    list-style: none;
+}
+
+.list-rodape li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(128, 10, 10);
+}
+
+.list-rodape li a:hover{
+    color: blueviolet;
+    transition: 0,6s;
+
+}
+
+
+
+.rodape i{
+    color: aqua;
+    font-size: 25px;
+    padding: 15px;
+    margin-left: 10px;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.corinthians{
+    background-color: cadetblue;
+    padding: 100px;
+    color: black;
+}
+
+
+
+
+
+
 
 
 
