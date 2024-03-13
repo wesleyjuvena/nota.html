@@ -29,12 +29,12 @@
 .menu li a{
 text-decoration: none;
 color: aqua;
-padding: 0px;
+padding: 10px;
 background-color: brown;
 }
 
 .menu li{
-margin-left: 20px;
+margin-left: 0px;
 }
 
 .menu{
@@ -51,9 +51,9 @@ h1{
 
 .section{
     display: flex;
-    max-width:11000px;
+    max-width:1100px;
     margin: 0 auto;
-    margin-bottom: 40px;
+    margin-bottom: 80px;
     align-items: center;
     flex-wrap: wrap;
     
@@ -66,8 +66,8 @@ h1{
 }
 
 .section div{
-    margin: 120px;
-    flex: 2 2 200px;
+    margin: 80px;
+    flex: 1 1 200px;
 }
 
 .santos{
@@ -92,7 +92,7 @@ h1{
 }
 
 .list-rodape li{
-    margin-right: 100px;
+    margin-right: 20px;
     list-style: none;
 }
 
