@@ -9,8 +9,9 @@
     background-color: #8a0f1e;
     display: flex;
     justify-content: space-between;
-    padding: 60px;
+    padding: 100px;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .header i{
@@ -23,6 +24,8 @@
     font-size: 100px;
     color:#7a38cc ;
 }
+
+
 
 
 
@@ -63,6 +66,8 @@ h1{
     
     max-width: 200px;
     display: block;
+    
+    
 }
 
 .section div{
@@ -89,11 +94,13 @@ h1{
 
 .list-rodape{
     display: flex;
+   
 }
 
 .list-rodape li{
-    margin-right: 20px;
+    margin-right: 40px;
     list-style: none;
+ 
 }
 
 .list-rodape li a{
@@ -105,23 +112,27 @@ h1{
 .list-rodape li a:hover{
     color: blueviolet;
     transition: 0,6s;
+    
 
 }
 
 
 
 .rodape i{
-    color: #001821;
+    color: #1292c0;
     font-size: 25px;
     padding: 15px;
-    margin-left: 10px;
-    background-color: #191b62;
+    margin-left: 30px;
+    background-color: #c8ff00;
     border-radius: 5px;
+    
+    
+
 }
 
 .corinthians{
     background-color: #b4ffbc;
-    padding: 100px;
+    padding: 250px;
     color: #000016;
 }
 
