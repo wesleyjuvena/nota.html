@@ -6,7 +6,7 @@
 }
 
 .header{
-    background-color: brown;
+    background-color: #8a0f1e;
     display: flex;
     justify-content: space-between;
     padding: 60px;
@@ -16,21 +16,21 @@
 .header i{
 
     font-size: 100px;
-    color: aliceblue;
+    color: #fffffc;
 }
 
 .header.fa-solid{
     font-size: 100px;
-    color: blueviolet;
+    color:#7a38cc ;
 }
 
 
 
 .menu li a{
 text-decoration: none;
-color: aqua;
+color:#baffdd ;
 padding: 10px;
-background-color: brown;
+background-color:#9d072e ;
 }
 
 .menu li{
@@ -44,9 +44,9 @@ margin-left: 0px;
 h1{
     text-align: center;
     margin-top: 100px;
-    color: aqua;
+    color:#001821 ;
     border-radius: 10px;
-    border: solid greenyellow;
+    border: solid #009f00;
 }
 
 .section{
@@ -71,16 +71,16 @@ h1{
 }
 
 .santos{
-    background-color: chartreuse;
-    color: brown;
+    background-color: #8eac26;
+    color: #b21d3b;
     padding: 100px;
     font-size: 20px;
 }
 
 .santos{
-    background-color: black;
+    background-color: #000016;
     padding: 70px ;
-    color: brown;
+    color: #8a0f1e;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -99,7 +99,7 @@ h1{
 .list-rodape li a{
     text-decoration: none;
     font-size: 25px;
-    color: rgb(128, 10, 10);
+    color: #75070f;
 }
 
 .list-rodape li a:hover{
@@ -111,18 +111,18 @@ h1{
 
 
 .rodape i{
-    color: aqua;
+    color: #001821;
     font-size: 25px;
     padding: 15px;
     margin-left: 10px;
-    background-color: blue;
+    background-color: #191b62;
     border-radius: 5px;
 }
 
 .corinthians{
-    background-color: cadetblue;
+    background-color: #b4ffbc;
     padding: 100px;
-    color: black;
+    color: #000016;
 }
 
 
