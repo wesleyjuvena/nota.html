@@ -49,7 +49,12 @@ h1{
     margin-top: 100px;
     color:#001821 ;
     border-radius: 10px;
-    border: solid #009f00;
+    border: solid #64626d;
+}
+
+p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #050505;
 }
 
 .section{
@@ -120,7 +125,7 @@ h1{
 
 
 .rodape i{
-    color: #1292c0;
+    color: #000016;
     font-size: 25px;
     padding: 15px;
     margin-left: 30px;
